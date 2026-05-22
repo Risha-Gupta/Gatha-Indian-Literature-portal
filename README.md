@@ -137,4 +137,4 @@ MIT
 
 ***
 
-*Made with a lot of chai and genuine love for Indian literature.*
+*Made with a lot of coffee and genuine love for Indian literature.*
